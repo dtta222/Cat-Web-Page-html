@@ -1,3 +1,2 @@
 # Cat-Web-Page-html
-# html practice 
-# Cat photo app
+# Cat photo app - html practice
